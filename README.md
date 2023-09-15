@@ -1,7 +1,4 @@
-# DSC_TECH
-TECHNICAL ROUND - DSC
-
-# README
+# DSC_TECH ( AKSHIT OHRI )
 
 This repository contains data on student marks in three subjects (math, reading, and writing), gender, name, age, IQ, whether they have a part-time job, and their parental level of education.
 Exploratory Data Analysis
